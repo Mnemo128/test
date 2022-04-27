@@ -34,7 +34,7 @@ while (wahl != 'Q'):
         for person in persons:
             print(80*'_','\n')
             print(f'Vorname: {person["Vorname"]}')
-            print(f'Nachname: {person["Nachname"]}')
+            print(f'Nachname: {person["Nachname"]}')#
 
 
 ####In Txt Datei schreiben
