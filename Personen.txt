@@ -1,1 +1,0 @@
-[{'Vorname': 'Lena', 'Nachname': 'Korpack'}][{'Vorname': 'Markus Michael', 'Nachname': 'Ledwig'}][{'Vorname': 'Hans', 'Nachname': 'Wurst'}]
